@@ -8,26 +8,42 @@ You can use the [editor on GitHub](https://github.com/caseyqburke/project3/edit/
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## OVERVIEW
+
+
+
+
+## ARCHITECTURE 
+ARCHITECTURE
+![dapps](images/dapps.png)
+
+
+## DETAILS
 
 - Bulleted
 - List
 
+## CONTRACT SPECS
 1. Numbered
 2. List
+
+
+## PROS/CONS
 
 **Bold** and _Italic_ and `Code` text
 
 [Puppy Presidential Elections](url) and ![Image](src)[Puppy Presidential Elections](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![dapps](images/dapps.png)
 
+
+
+
+
+
+![contract](images/contract.png)
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/caseyqburke/project3/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
